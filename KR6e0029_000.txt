@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說菩薩本業經
+#+DATE: 2015-09-28 22:55:42.673753
+#+PROPERTY: JUAN 0
