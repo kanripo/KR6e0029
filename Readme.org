@@ -1,16 +1,20 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:55:42.659316
-#+TITLE: 佛說菩薩本業經
-#+PROPERTY: CBETA_ID T10n0281
-#+PROPERTY: ID KR6e0029
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 281
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS TKD
-#+PROPERTY: LASTPB <pb:KR6e0029_T_000-0446b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 佛說菩薩本業經 / TKD
+#+DATE: 2015-11-26 14:11:01.157423
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |      T@LI|【大→麗】   |
+ |    T@MING|【大→明】   |
+ |   T@QISHA|【大→磧砂】  |
+ |   T@SHENG|【大→聖】   |
+ | T@SHENGYI|【大→聖乙】  |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
-[[mandoku:KR6e0029_001.txt::0447b5][2願行品]]
-[[mandoku:KR6e0029_001.txt::0449b25][3十地品]]
-
-卷
-[[mandoku:KR6e0029_001.txt][佛說菩薩本業經 1]]
+* 目次
+* [[file:KR6e0029_001.txt::0447b5][2願行品]]
+* [[file:KR6e0029_001.txt::0449b25][3十地品]]
+* 卷
+** [[file:KR6e0029_001.txt][佛說菩薩本業經 1]]
